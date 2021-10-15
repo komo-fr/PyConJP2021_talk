@@ -1,6 +1,7 @@
 # PyConJP 2021
 
 PyConJP2021のtalk「Bokeh & Dash Cytoscape 〜 Pythonによるインタラクティブなネットワーク可視化ライブラリの比較」のサンプルコードのリポジトリです。
+- https://2021.pycon.jp/time-table/?id=273842
 
 ## 環境構築
 
