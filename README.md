@@ -1,7 +1,10 @@
-# PyConJP2021_talk_private
+# PyConJP 2021
+
+PyConJP2021のtalk「Bokeh & Dash Cytoscape 〜 Pythonによるインタラクティブなネットワーク可視化ライブラリの比較」のサンプルコードのリポジトリです。
+
+## 環境構築
 
 Python 3.9+
-
 ```
 % python -m venv venv
 % source venv/bin/activate
